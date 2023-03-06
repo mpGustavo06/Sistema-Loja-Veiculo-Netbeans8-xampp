@@ -10,6 +10,12 @@ Projeto final da matéria de Programação Orientada a Objetos 1 do curso de TSI
 
 <img src="https://cdn.discordapp.com/attachments/715640649051013144/1082380091968979024/Relatorio.JPG" style="width:400px; height:350px;">
 
+##  Getting Started
+
+<h2>Pré-requisitos</h2>
+
+Para executar o sistema será necessário instalar o Netbeans e o Xampp, e que ambos estejam configurados.
+
 ## Observações
 
 * Sistema feito apenas para aprendizado, sem fins comerciais.
