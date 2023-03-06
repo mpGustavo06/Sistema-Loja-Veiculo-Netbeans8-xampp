@@ -4,11 +4,11 @@ Projeto final da matéria de Programação Orientada a Objetos 1 do curso de TSI
 
 <img src="https://cdn.discordapp.com/attachments/715640649051013144/1082379765803130880/login.JPG" style="width:300px; heigh:400px;">
 
-<img src="https://cdn.discordapp.com/attachments/715640649051013144/1082380027846475846/cadastroVen.JPG" style="width:400px; height:350px;">
+<img src="https://cdn.discordapp.com/attachments/715640649051013144/1082380027846475846/cadastroVen.JPG" style="width:450px; height:350px;">
 
-<img src="https://cdn.discordapp.com/attachments/715640649051013144/1082379986188632184/dDodge.JPG" style="width:400px; height:350px;">
+<img src="https://cdn.discordapp.com/attachments/715640649051013144/1082379986188632184/dDodge.JPG" style="width:450px; height:350px;">
 
-<img src="https://cdn.discordapp.com/attachments/715640649051013144/1082380091968979024/Relatorio.JPG" style="width:400px; height:350px;">
+<img src="https://cdn.discordapp.com/attachments/715640649051013144/1082380091968979024/Relatorio.JPG" style="width:450px; height:350px;">
 
 <h2>Pré-requisitos</h2>
 
