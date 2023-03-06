@@ -10,8 +10,6 @@ Projeto final da matéria de Programação Orientada a Objetos 1 do curso de TSI
 
 <img src="https://cdn.discordapp.com/attachments/715640649051013144/1082380091968979024/Relatorio.JPG" style="width:400px; height:350px;">
 
-##  Getting Started
-
 <h2>Pré-requisitos</h2>
 
 Para executar o sistema será necessário instalar o Netbeans e o Xampp, e que ambos estejam configurados.
@@ -25,3 +23,6 @@ Para executar o sistema será necessário instalar o Netbeans e o Xampp, e que a
 * Para ver screenshots do sistema entre [here](https://drive.google.com/drive/folders/1lmvWOaSSS5HKAh-V_93A-uDeDgxnkkZ9?usp=share_link).
 
 * O sistema foi feito utilizando o Netbeans 8, caso dê erro em alguma versão atual poderá baixar a versão 8 [here](https://drive.google.com/drive/folders/1Ko-8QFKB0jrRFzrUYE3giQlUaa9Cn0Xj?usp=share_link).
+
+* As imagens e informações sobre os veículos no sistema foram retiradas da 
+** [Pastore Car Collections](https://www.pastorecc.com.br) 
