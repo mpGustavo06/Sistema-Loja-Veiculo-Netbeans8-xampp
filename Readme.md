@@ -24,6 +24,8 @@ Para executar o sistema será necessário instalar o Netbeans e o Xampp, e que a
 
 * O sistema foi feito utilizando o Netbeans 8, caso dê erro em alguma versão atual poderá baixar a versão 8 [here](https://drive.google.com/drive/folders/1Ko-8QFKB0jrRFzrUYE3giQlUaa9Cn0Xj?usp=share_link).
 
+## Copyright
+
 As imagens e informações sobre os veículos no sistema foram retiradas do site:
 
 * [Pastore Car Collections](https://www.pastorecc.com.br) 
