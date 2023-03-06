@@ -10,7 +10,6 @@ Projeto final da matéria de Programação Orientada a Objetos 1 do curso de TSI
 
 <img src="https://cdn.discordapp.com/attachments/715640649051013144/1082380091968979024/Relatorio.JPG" style="width:400px; height:350px;">
 
-
 ## Observações
 
 * Sistema feito apenas para aprendizado, sem fins comerciais.
@@ -18,3 +17,5 @@ Projeto final da matéria de Programação Orientada a Objetos 1 do curso de TSI
 * O sistema não contém a parte de estoque da loja.
 
 * Para ver screenshots do sistema entre [here](https://drive.google.com/drive/folders/1lmvWOaSSS5HKAh-V_93A-uDeDgxnkkZ9?usp=share_link).
+
+* O sistema foi feito utilizando o Netbeans 8, caso dê erro em alguma versão atual poderá baixar a versão 8 [here](https://drive.google.com/drive/folders/1Ko-8QFKB0jrRFzrUYE3giQlUaa9Cn0Xj?usp=share_link).
